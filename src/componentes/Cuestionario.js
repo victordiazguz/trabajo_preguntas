@@ -142,7 +142,6 @@ const Cuestionario = ({ setResultados }) => {
           </button>
         ))}
       </div>
-      <pre>{JSON.stringify(respuestas, null, 2)}</pre>
     </>
   );
 };
